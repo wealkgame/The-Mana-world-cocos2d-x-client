@@ -297,7 +297,7 @@
 							<real>352</real>
 						</array>
 						<key>RubberWindowFrame</key>
-						<string>67 272 1116 520 0 0 1440 878 </string>
+						<string>88 234 1116 520 0 0 1440 878 </string>
 					</dict>
 					<key>Module</key>
 					<string>PBXSmartGroupTreeModule</string>
@@ -325,7 +325,7 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>7514C073130B5462000037D6</string>
+										<string>7514C076130B5620000037D6</string>
 										<key>history</key>
 										<array>
 											<string>75C0BE41130AB59C000B1293</string>
@@ -349,7 +349,7 @@
 								<key>Frame</key>
 								<string>{{0, 0}, {742, 268}}</string>
 								<key>RubberWindowFrame</key>
-								<string>67 272 1116 520 0 0 1440 878 </string>
+								<string>88 234 1116 520 0 0 1440 878 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
@@ -369,7 +369,7 @@
 								<key>Frame</key>
 								<string>{{0, 273}, {742, 206}}</string>
 								<key>RubberWindowFrame</key>
-								<string>67 272 1116 520 0 0 1440 878 </string>
+								<string>88 234 1116 520 0 0 1440 878 </string>
 							</dict>
 							<key>Module</key>
 							<string>XCDetailModule</string>
@@ -538,7 +538,7 @@
 		<string>/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/mana-iphone.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
-	<string>67 272 1116 520 0 0 1440 878 </string>
+	<string>88 234 1116 520 0 0 1440 878 </string>
 	<key>WindowToolsV3</key>
 	<array>
 		<dict>

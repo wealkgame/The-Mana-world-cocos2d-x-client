@@ -59,11 +59,13 @@
 					PBXFileDataSource_Warnings_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 319509566;
-			PBXWorkspaceStateSaveDate = 319509566;
+			PBXPerProjectTemplateStateSaveDate = 319629298;
+			PBXWorkspaceStateSaveDate = 319629298;
 		};
 		perUserProjectItems = {
-			7514C076130B5620000037D6 /* PBXBookmark */ = 7514C076130B5620000037D6 /* PBXBookmark */;
+			75BD2612130D2BB00078726C /* PBXBookmark */ = 75BD2612130D2BB00078726C /* PBXBookmark */;
+			75BD2613130D2BB00078726C /* PBXTextBookmark */ = 75BD2613130D2BB00078726C /* PBXTextBookmark */;
+			75BD2615130D2BB00078726C /* PBXTextBookmark */ = 75BD2615130D2BB00078726C /* PBXTextBookmark */;
 			75C0BE41130AB59C000B1293 /* PBXBookmark */ = 75C0BE41130AB59C000B1293 /* PBXBookmark */;
 			75C0BE44130AC8F8000B1293 /* PBXBookmark */ = 75C0BE44130AC8F8000B1293 /* PBXBookmark */;
 			75C0BE45130AC8F8000B1293 /* PBXBookmark */ = 75C0BE45130AC8F8000B1293 /* PBXBookmark */;
@@ -71,7 +73,6 @@
 			75C0BE47130AC8F8000B1293 /* PBXBookmark */ = 75C0BE47130AC8F8000B1293 /* PBXBookmark */;
 			75C0BE48130AC8F8000B1293 /* PBXBookmark */ = 75C0BE48130AC8F8000B1293 /* PBXBookmark */;
 			75C0BE49130AC8F8000B1293 /* PBXBookmark */ = 75C0BE49130AC8F8000B1293 /* PBXBookmark */;
-			75C0BE4B130AC8F8000B1293 /* PBXBookmark */ = 75C0BE4B130AC8F8000B1293 /* PBXBookmark */;
 		};
 		sourceControlManager = 75C0BE3A130AB3A2000B1293 /* Source Control */;
 		userBuildSettings = {
@@ -80,9 +81,39 @@
 	506EE05D10304ED200A389B3 /* cocos2d libraries */ = {
 		activeExec = 0;
 	};
-	7514C076130B5620000037D6 /* PBXBookmark */ = {
+	75BD2612130D2BB00078726C /* PBXBookmark */ = {
 		isa = PBXBookmark;
 		fRef = BF1915BF12E04F70007DCFF1 /* Icon-Small-50.png */;
+	};
+	75BD2613130D2BB00078726C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 75BD2614130D2BB00078726C /* main.cpp */;
+		rLen = 0;
+		rLoc = 9223372036854775807;
+		rType = 0;
+	};
+	75BD2614130D2BB00078726C /* main.cpp */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.cpp.cpp;
+		name = main.cpp;
+		path = "/Users/zhaopeng/OpenProject/game-engines/mana-source/manamobile/src/main.cpp";
+		sourceTree = "<absolute>";
+	};
+	75BD2615130D2BB00078726C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 75BD2616130D2BB00078726C /* main.cpp */;
+		name = "main.cpp: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 746;
+		vrLoc = 0;
+	};
+	75BD2616130D2BB00078726C /* main.cpp */ = {
+		isa = PBXFileReference;
+		name = main.cpp;
+		path = "/Users/zhaopeng/OpenProject/game-engines/mana-source/manamobile/src/main.cpp";
+		sourceTree = "<absolute>";
 	};
 	75C0BE0A130AB38B000B1293 /* mana-iphone */ = {
 		isa = PBXExecutable;
@@ -153,9 +184,5 @@
 	75C0BE49130AC8F8000B1293 /* PBXBookmark */ = {
 		isa = PBXBookmark;
 		fRef = BF1915BE12E04F70007DCFF1 /* Icon-72.png */;
-	};
-	75C0BE4B130AC8F8000B1293 /* PBXBookmark */ = {
-		isa = PBXBookmark;
-		fRef = BF1915BF12E04F70007DCFF1 /* Icon-Small-50.png */;
 	};
 }

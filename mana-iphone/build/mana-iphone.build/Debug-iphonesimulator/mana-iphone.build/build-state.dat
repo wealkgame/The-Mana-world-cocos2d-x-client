@@ -1,7 +1,7 @@
 Tmana-iphone
 v7
 r0
-t319468450.083701
+t319630013.724986
 cCheck dependencies
 cProcessInfoPlistFile /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/Debug-iphonesimulator/mana-iphone.app/Info.plist Info.plist
 cCpResource build/Debug-iphonesimulator/mana-iphone.app/CloseNormal.png Resource/CloseNormal.png
@@ -228,89 +228,89 @@ t1297775624
 s21365
 
 N/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/Debug-iphonesimulator/libcocos2d libraries.a
-c000000004D5A7C1E00000000008606A8
-t1297775646
+c000000004D5CF33900000000008606A8
+t1297937209
 s8783528
 
 N/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/Debug-iphonesimulator/mana-iphone.app
-t1297775650
+t1297937213
 s544
 
 N/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/Debug-iphonesimulator/mana-iphone.app.dSYM
-t1297775650
+t1297937213
 s102
 
 N/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/Debug-iphonesimulator/mana-iphone.app/CloseNormal.png
-t1297775646
+t1297937209
 s5238
 
 N/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/Debug-iphonesimulator/mana-iphone.app/CloseSelected.png
-t1297775646
+t1297937209
 s6165
 
 N/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/Debug-iphonesimulator/mana-iphone.app/Default.png
-t1297775646
+t1297937209
 s30635
 
 N/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/Debug-iphonesimulator/mana-iphone.app/HelloWorld.png
-t1297775646
+t1297937209
 s26718
 
 N/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/Debug-iphonesimulator/mana-iphone.app/Icon-72.png
-t1297775646
+t1297937209
 s11414
 
 N/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/Debug-iphonesimulator/mana-iphone.app/Icon-Small-50.png
-t1297775646
+t1297937209
 s7979
 
 N/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/Debug-iphonesimulator/mana-iphone.app/Icon-Small.png
-t1297775646
+t1297937209
 s4956
 
 N/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/Debug-iphonesimulator/mana-iphone.app/Icon-Small@2x.png
-t1297775646
+t1297937209
 s9465
 
 N/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/Debug-iphonesimulator/mana-iphone.app/Icon.png
-t1297775646
+t1297937209
 s9327
 
 N/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/Debug-iphonesimulator/mana-iphone.app/Icon@2x.png
-t1297775646
+t1297937209
 s21365
 
 N/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/Debug-iphonesimulator/mana-iphone.app/Info.plist
-t1297775646
+t1297937209
 s836
 
 N/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/Debug-iphonesimulator/mana-iphone.app/LICENSE.cocos2d-x
-t1297775646
+t1297937209
 s1142
 
 N/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/Debug-iphonesimulator/mana-iphone.app/PkgInfo
-t1297775646
+t1297937209
 s8
 
 N/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/Debug-iphonesimulator/mana-iphone.app/mana-iphone
-t1297775649
+t1297937213
 s3080612
 
 N/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/mana-iphone.build/Debug-iphonesimulator/mana-iphone.build/Objects-normal/i386/HelloWorldScene.o
-t1297775648
+t1297937212
 s160536
 
 N/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/mana-iphone.build/Debug-iphonesimulator/mana-iphone.build/Objects-normal/i386/main.o
-t1297775648
+t1297937211
 s6484
 
 N/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/mana-iphone.build/Debug-iphonesimulator/mana-iphone.build/Objects-normal/i386/mana-iphone.LinkFileList
-c000000004D5A7C1E00000000000001FD
-t1297775646
+c000000004D5CF33900000000000001FD
+t1297937209
 s509
 
 N/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/mana-iphone.build/Debug-iphonesimulator/mana-iphone.build/Objects-normal/i386/mana_iphoneAppDelegate.o
-t1297775648
+t1297937212
 s167472
 
 N/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/libs/cocos2dx/include/CCAction.h
@@ -1419,15 +1419,15 @@ t1277417884
 s3758272
 
 N/var/folders/VQ/VQsprjW3HfSXZYONAZnGW++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/mana_iphone_Prefix-cvugxzrbjkintkhbkctnmknpdivp/mana_iphone_Prefix.pch.gch
-t1297775647
+t1297937211
 s16514128
 
 N/var/folders/VQ/VQsprjW3HfSXZYONAZnGW++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/mana_iphone_Prefix-egyrjnwlftrohpavrdeaqvrbviyi/mana_iphone_Prefix.pch.gch
-t1297775647
+t1297937210
 s15477968
 
 N/var/folders/VQ/VQsprjW3HfSXZYONAZnGW++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/mana_iphone_Prefix-hijhzoslcvpbmmgacdhrjdaxttex/mana_iphone_Prefix.pch.gch
-t1297775646
+t1297937209
 s2515312
 
 NInfo.plist
@@ -1437,11 +1437,11 @@ s1301
 
 CCheck dependencies
 r0
-lSLF07#2@18"Check dependencies319468446#319468446#0(0"0(0#1#0"8602084064#0"0#
+lSLF07#2@18"Check dependencies319630009#319630009#0(0"0(0#1#0"8617451360#0"0#
 
 CCompileC build/mana-iphone.build/Debug-iphonesimulator/mana-iphone.build/Objects-normal/i386/HelloWorldScene.o /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/Classes/HelloWorldScene.cpp normal i386 c++ com.apple.compilers.gcc.4_2
-s319468447.973390
-e319468448.592107
+s319630011.499060
+e319630012.156540
 r1
 xCompileC
 xbuild/mana-iphone.build/Debug-iphonesimulator/mana-iphone.build/Objects-normal/i386/HelloWorldScene.o
@@ -1450,11 +1450,11 @@ xnormal
 xi386
 xc++
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@104"Compile /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/Classes/HelloWorldScene.cpp319468447#319468448#0(0"0(0#0#96"/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/Classes/HelloWorldScene.cpp8602103264#2431"    cd /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DUSE_FILE32API -DTARGET_OS_IPHONE -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/mana-iphone.build/Debug-iphonesimulator/mana-iphone.build/mana-iphone-generated-files.hmap -I/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/mana-iphone.build/Debug-iphonesimulator/mana-iphone.build/mana-iphone-own-target-headers.hmap -I/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/mana-iphone.build/Debug-iphonesimulator/mana-iphone.build/mana-iphone-all-target-headers.hmap -iquote /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/mana-iphone.build/Debug-iphonesimulator/mana-iphone.build/mana-iphone-project-headers.hmap -F/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/Debug-iphonesimulator -I/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/Debug-iphonesimulator/include -Ilibs/cocos2dx -Ilibs/cocos2dx/platform/iphone/third_party/libxml2 -Ilibs/cocos2dx/platform/iphone/third_party/opengles -I/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/mana-iphone.build/Debug-iphonesimulator/mana-iphone.build/DerivedSources/i386 -I/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/mana-iphone.build/Debug-iphonesimulator/mana-iphone.build/DerivedSources -include /var/folders/VQ/VQsprjW3HfSXZYONAZnGW++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/mana_iphone_Prefix-hijhzoslcvpbmmgacdhrjdaxttex/mana_iphone_Prefix.pch -c /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/Classes/HelloWorldScene.cpp -o /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/mana-iphone.build/Debug-iphonesimulator/mana-iphone.build/Objects-normal/i386/HelloWorldScene.o0#
+lSLF07#2@104"Compile /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/Classes/HelloWorldScene.cpp319630011#319630012#0(0"0(0#0#96"/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/Classes/HelloWorldScene.cpp8614397792#2431"    cd /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DUSE_FILE32API -DTARGET_OS_IPHONE -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/mana-iphone.build/Debug-iphonesimulator/mana-iphone.build/mana-iphone-generated-files.hmap -I/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/mana-iphone.build/Debug-iphonesimulator/mana-iphone.build/mana-iphone-own-target-headers.hmap -I/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/mana-iphone.build/Debug-iphonesimulator/mana-iphone.build/mana-iphone-all-target-headers.hmap -iquote /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/mana-iphone.build/Debug-iphonesimulator/mana-iphone.build/mana-iphone-project-headers.hmap -F/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/Debug-iphonesimulator -I/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/Debug-iphonesimulator/include -Ilibs/cocos2dx -Ilibs/cocos2dx/platform/iphone/third_party/libxml2 -Ilibs/cocos2dx/platform/iphone/third_party/opengles -I/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/mana-iphone.build/Debug-iphonesimulator/mana-iphone.build/DerivedSources/i386 -I/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/mana-iphone.build/Debug-iphonesimulator/mana-iphone.build/DerivedSources -include /var/folders/VQ/VQsprjW3HfSXZYONAZnGW++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/mana_iphone_Prefix-hijhzoslcvpbmmgacdhrjdaxttex/mana_iphone_Prefix.pch -c /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/Classes/HelloWorldScene.cpp -o /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/mana-iphone.build/Debug-iphonesimulator/mana-iphone.build/Objects-normal/i386/HelloWorldScene.o0#
 
 CCompileC build/mana-iphone.build/Debug-iphonesimulator/mana-iphone.build/Objects-normal/i386/main.o /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s319468447.975056
-e319468448.097007
+s319630011.513566
+e319630011.654435
 r1
 xCompileC
 xbuild/mana-iphone.build/Debug-iphonesimulator/mana-iphone.build/Objects-normal/i386/main.o
@@ -1463,11 +1463,11 @@ xnormal
 xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@83"Compile /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/main.m319468447#319468448#0(0"0(0#0#75"/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/main.m8600996448#2474"    cd /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DUSE_FILE32API -DTARGET_OS_IPHONE -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -Wno-protocol -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/mana-iphone.build/Debug-iphonesimulator/mana-iphone.build/mana-iphone-generated-files.hmap -I/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/mana-iphone.build/Debug-iphonesimulator/mana-iphone.build/mana-iphone-own-target-headers.hmap -I/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/mana-iphone.build/Debug-iphonesimulator/mana-iphone.build/mana-iphone-all-target-headers.hmap -iquote /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/mana-iphone.build/Debug-iphonesimulator/mana-iphone.build/mana-iphone-project-headers.hmap -F/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/Debug-iphonesimulator -I/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/Debug-iphonesimulator/include -Ilibs/cocos2dx -Ilibs/cocos2dx/platform/iphone/third_party/libxml2 -Ilibs/cocos2dx/platform/iphone/third_party/opengles -I/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/mana-iphone.build/Debug-iphonesimulator/mana-iphone.build/DerivedSources/i386 -I/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/mana-iphone.build/Debug-iphonesimulator/mana-iphone.build/DerivedSources -include /var/folders/VQ/VQsprjW3HfSXZYONAZnGW++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/mana_iphone_Prefix-egyrjnwlftrohpavrdeaqvrbviyi/mana_iphone_Prefix.pch -c /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/main.m -o /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/mana-iphone.build/Debug-iphonesimulator/mana-iphone.build/Objects-normal/i386/main.o0#
+lSLF07#2@83"Compile /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/main.m319630011#319630011#0(0"0(0#0#75"/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/main.m8613996160#2474"    cd /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DUSE_FILE32API -DTARGET_OS_IPHONE -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -Wno-protocol -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/mana-iphone.build/Debug-iphonesimulator/mana-iphone.build/mana-iphone-generated-files.hmap -I/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/mana-iphone.build/Debug-iphonesimulator/mana-iphone.build/mana-iphone-own-target-headers.hmap -I/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/mana-iphone.build/Debug-iphonesimulator/mana-iphone.build/mana-iphone-all-target-headers.hmap -iquote /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/mana-iphone.build/Debug-iphonesimulator/mana-iphone.build/mana-iphone-project-headers.hmap -F/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/Debug-iphonesimulator -I/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/Debug-iphonesimulator/include -Ilibs/cocos2dx -Ilibs/cocos2dx/platform/iphone/third_party/libxml2 -Ilibs/cocos2dx/platform/iphone/third_party/opengles -I/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/mana-iphone.build/Debug-iphonesimulator/mana-iphone.build/DerivedSources/i386 -I/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/mana-iphone.build/Debug-iphonesimulator/mana-iphone.build/DerivedSources -include /var/folders/VQ/VQsprjW3HfSXZYONAZnGW++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/mana_iphone_Prefix-egyrjnwlftrohpavrdeaqvrbviyi/mana_iphone_Prefix.pch -c /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/main.m -o /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/mana-iphone.build/Debug-iphonesimulator/mana-iphone.build/Objects-normal/i386/main.o0#
 
 CCompileC build/mana-iphone.build/Debug-iphonesimulator/mana-iphone.build/Objects-normal/i386/mana_iphoneAppDelegate.o /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/mana_iphoneAppDelegate.mm normal i386 objective-c++ com.apple.compilers.gcc.4_2
-s319468447.976418
-e319468448.610823
+s319630011.514625
+e319630012.213636
 r1
 xCompileC
 xbuild/mana-iphone.build/Debug-iphonesimulator/mana-iphone.build/Objects-normal/i386/mana_iphoneAppDelegate.o
@@ -1476,138 +1476,138 @@ xnormal
 xi386
 xobjective-c++
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@102"Compile /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/mana_iphoneAppDelegate.mm319468447#319468448#0(0"0(0#0#94"/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/mana_iphoneAppDelegate.mm8602162688#2504"    cd /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DUSE_FILE32API -DTARGET_OS_IPHONE -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -Wno-protocol -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/mana-iphone.build/Debug-iphonesimulator/mana-iphone.build/mana-iphone-generated-files.hmap -I/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/mana-iphone.build/Debug-iphonesimulator/mana-iphone.build/mana-iphone-own-target-headers.hmap -I/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/mana-iphone.build/Debug-iphonesimulator/mana-iphone.build/mana-iphone-all-target-headers.hmap -iquote /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/mana-iphone.build/Debug-iphonesimulator/mana-iphone.build/mana-iphone-project-headers.hmap -F/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/Debug-iphonesimulator -I/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/Debug-iphonesimulator/include -Ilibs/cocos2dx -Ilibs/cocos2dx/platform/iphone/third_party/libxml2 -Ilibs/cocos2dx/platform/iphone/third_party/opengles -I/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/mana-iphone.build/Debug-iphonesimulator/mana-iphone.build/DerivedSources/i386 -I/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/mana-iphone.build/Debug-iphonesimulator/mana-iphone.build/DerivedSources -include /var/folders/VQ/VQsprjW3HfSXZYONAZnGW++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/mana_iphone_Prefix-cvugxzrbjkintkhbkctnmknpdivp/mana_iphone_Prefix.pch -c /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/mana_iphoneAppDelegate.mm -o /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/mana-iphone.build/Debug-iphonesimulator/mana-iphone.build/Objects-normal/i386/mana_iphoneAppDelegate.o0#
+lSLF07#2@102"Compile /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/mana_iphoneAppDelegate.mm319630011#319630012#0(0"0(0#0#94"/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/mana_iphoneAppDelegate.mm8613613664#2504"    cd /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DUSE_FILE32API -DTARGET_OS_IPHONE -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -Wno-protocol -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/mana-iphone.build/Debug-iphonesimulator/mana-iphone.build/mana-iphone-generated-files.hmap -I/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/mana-iphone.build/Debug-iphonesimulator/mana-iphone.build/mana-iphone-own-target-headers.hmap -I/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/mana-iphone.build/Debug-iphonesimulator/mana-iphone.build/mana-iphone-all-target-headers.hmap -iquote /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/mana-iphone.build/Debug-iphonesimulator/mana-iphone.build/mana-iphone-project-headers.hmap -F/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/Debug-iphonesimulator -I/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/Debug-iphonesimulator/include -Ilibs/cocos2dx -Ilibs/cocos2dx/platform/iphone/third_party/libxml2 -Ilibs/cocos2dx/platform/iphone/third_party/opengles -I/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/mana-iphone.build/Debug-iphonesimulator/mana-iphone.build/DerivedSources/i386 -I/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/mana-iphone.build/Debug-iphonesimulator/mana-iphone.build/DerivedSources -include /var/folders/VQ/VQsprjW3HfSXZYONAZnGW++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/mana_iphone_Prefix-cvugxzrbjkintkhbkctnmknpdivp/mana_iphone_Prefix.pch -c /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/mana_iphoneAppDelegate.mm -o /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/mana-iphone.build/Debug-iphonesimulator/mana-iphone.build/Objects-normal/i386/mana_iphoneAppDelegate.o0#
 
 CCpResource build/Debug-iphonesimulator/mana-iphone.app/CloseNormal.png Resource/CloseNormal.png
-s319468446.581461
-e319468446.610562
+s319630009.301416
+e319630009.332895
 r1
 xCpResource
 xbuild/Debug-iphonesimulator/mana-iphone.app/CloseNormal.png
 xResource/CloseNormal.png
-lSLF07#2@29"Copy Resource/CloseNormal.png319468446#319468446#0(0"0(0#0#93"/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/Resource/CloseNormal.png8606482592#576"    cd /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/Resource/CloseNormal.png /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/Debug-iphonesimulator/mana-iphone.app0#
+lSLF07#2@29"Copy Resource/CloseNormal.png319630009#319630009#0(0"0(0#0#93"/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/Resource/CloseNormal.png8615072096#576"    cd /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/Resource/CloseNormal.png /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/Debug-iphonesimulator/mana-iphone.app0#
 
 CCpResource build/Debug-iphonesimulator/mana-iphone.app/CloseSelected.png Resource/CloseSelected.png
-s319468446.582141
-e319468446.610752
+s319630009.302163
+e319630009.333135
 r1
 xCpResource
 xbuild/Debug-iphonesimulator/mana-iphone.app/CloseSelected.png
 xResource/CloseSelected.png
-lSLF07#2@31"Copy Resource/CloseSelected.png319468446#319468446#0(0"0(0#0#95"/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/Resource/CloseSelected.png8606012128#578"    cd /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/Resource/CloseSelected.png /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/Debug-iphonesimulator/mana-iphone.app0#
+lSLF07#2@31"Copy Resource/CloseSelected.png319630009#319630009#0(0"0(0#0#95"/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/Resource/CloseSelected.png8614387680#578"    cd /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/Resource/CloseSelected.png /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/Debug-iphonesimulator/mana-iphone.app0#
 
 CCpResource build/Debug-iphonesimulator/mana-iphone.app/Default.png Resource/Default.png
-s319468446.582887
-e319468446.610923
+s319630009.302937
+e319630009.331675
 r1
 xCpResource
 xbuild/Debug-iphonesimulator/mana-iphone.app/Default.png
 xResource/Default.png
-lSLF07#2@25"Copy Resource/Default.png319468446#319468446#0(0"0(0#0#89"/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/Resource/Default.png8605638720#572"    cd /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/Resource/Default.png /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/Debug-iphonesimulator/mana-iphone.app0#
+lSLF07#2@25"Copy Resource/Default.png319630009#319630009#0(0"0(0#0#89"/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/Resource/Default.png8614272896#572"    cd /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/Resource/Default.png /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/Debug-iphonesimulator/mana-iphone.app0#
 
 CCpResource build/Debug-iphonesimulator/mana-iphone.app/HelloWorld.png Resource/HelloWorld.png
-s319468446.583656
-e319468446.611093
+s319630009.303809
+e319630009.331857
 r1
 xCpResource
 xbuild/Debug-iphonesimulator/mana-iphone.app/HelloWorld.png
 xResource/HelloWorld.png
-lSLF07#2@28"Copy Resource/HelloWorld.png319468446#319468446#0(0"0(0#0#92"/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/Resource/HelloWorld.png8604208256#575"    cd /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/Resource/HelloWorld.png /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/Debug-iphonesimulator/mana-iphone.app0#
+lSLF07#2@28"Copy Resource/HelloWorld.png319630009#319630009#0(0"0(0#0#92"/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/Resource/HelloWorld.png8614182176#575"    cd /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/Resource/HelloWorld.png /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/Debug-iphonesimulator/mana-iphone.app0#
 
 CCpResource build/Debug-iphonesimulator/mana-iphone.app/Icon-72.png Resource/Icon-72.png
-s319468446.584234
-e319468446.612318
+s319630009.304454
+e319630009.332658
 r1
 xCpResource
 xbuild/Debug-iphonesimulator/mana-iphone.app/Icon-72.png
 xResource/Icon-72.png
-lSLF07#2@25"Copy Resource/Icon-72.png319468446#319468446#0(0"0(0#0#89"/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/Resource/Icon-72.png8603657312#572"    cd /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/Resource/Icon-72.png /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/Debug-iphonesimulator/mana-iphone.app0#
+lSLF07#2@25"Copy Resource/Icon-72.png319630009#319630009#0(0"0(0#0#89"/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/Resource/Icon-72.png8613808832#572"    cd /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/Resource/Icon-72.png /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/Debug-iphonesimulator/mana-iphone.app0#
 
 CCpResource build/Debug-iphonesimulator/mana-iphone.app/Icon-Small-50.png Resource/Icon-Small-50.png
-s319468446.584790
-e319468446.608354
+s319630009.305224
+e319630009.332035
 r1
 xCpResource
 xbuild/Debug-iphonesimulator/mana-iphone.app/Icon-Small-50.png
 xResource/Icon-Small-50.png
-lSLF07#2@31"Copy Resource/Icon-Small-50.png319468446#319468446#0(0"0(0#0#95"/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/Resource/Icon-Small-50.png8602123072#578"    cd /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/Resource/Icon-Small-50.png /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/Debug-iphonesimulator/mana-iphone.app0#
+lSLF07#2@31"Copy Resource/Icon-Small-50.png319630009#319630009#0(0"0(0#0#95"/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/Resource/Icon-Small-50.png8612941568#578"    cd /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/Resource/Icon-Small-50.png /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/Debug-iphonesimulator/mana-iphone.app0#
 
 CCpResource build/Debug-iphonesimulator/mana-iphone.app/Icon-Small.png Resource/Icon-Small.png
-s319468446.585358
-e319468446.611264
+s319630009.305868
+e319630009.329790
 r1
 xCpResource
 xbuild/Debug-iphonesimulator/mana-iphone.app/Icon-Small.png
 xResource/Icon-Small.png
-lSLF07#2@28"Copy Resource/Icon-Small.png319468446#319468446#0(0"0(0#0#92"/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/Resource/Icon-Small.png8601119424#575"    cd /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/Resource/Icon-Small.png /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/Debug-iphonesimulator/mana-iphone.app0#
+lSLF07#2@28"Copy Resource/Icon-Small.png319630009#319630009#0(0"0(0#0#92"/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/Resource/Icon-Small.png8608064384#575"    cd /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/Resource/Icon-Small.png /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/Debug-iphonesimulator/mana-iphone.app0#
 
 CCpResource build/Debug-iphonesimulator/mana-iphone.app/Icon-Small@2x.png Resource/Icon-Small@2x.png
-s319468446.585926
-e319468446.611436
+s319630009.306581
+e319630009.333582
 r1
 xCpResource
 xbuild/Debug-iphonesimulator/mana-iphone.app/Icon-Small@2x.png
 xResource/Icon-Small@2x.png
-lSLF07#2@31"Copy Resource/Icon-Small@2x.png319468446#319468446#0(0"0(0#0#95"/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/Resource/Icon-Small@2x.png8598789184#578"    cd /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/Resource/Icon-Small@2x.png /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/Debug-iphonesimulator/mana-iphone.app0#
+lSLF07#2@31"Copy Resource/Icon-Small@2x.png319630009#319630009#0(0"0(0#0#95"/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/Resource/Icon-Small@2x.png8612467616#578"    cd /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/Resource/Icon-Small@2x.png /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/Debug-iphonesimulator/mana-iphone.app0#
 
 CCpResource build/Debug-iphonesimulator/mana-iphone.app/Icon.png Resource/Icon.png
-s319468446.586492
-e319468446.611869
+s319630009.307267
+e319630009.332203
 r1
 xCpResource
 xbuild/Debug-iphonesimulator/mana-iphone.app/Icon.png
 xResource/Icon.png
-lSLF07#2@22"Copy Resource/Icon.png319468446#319468446#0(0"0(0#0#86"/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/Resource/Icon.png8603791680#569"    cd /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/Resource/Icon.png /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/Debug-iphonesimulator/mana-iphone.app0#
+lSLF07#2@22"Copy Resource/Icon.png319630009#319630009#0(0"0(0#0#86"/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/Resource/Icon.png8612801600#569"    cd /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/Resource/Icon.png /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/Debug-iphonesimulator/mana-iphone.app0#
 
 CCpResource build/Debug-iphonesimulator/mana-iphone.app/Icon@2x.png Resource/Icon@2x.png
-s319468446.587143
-e319468446.611617
+s319630009.307983
+e319630009.332386
 r1
 xCpResource
 xbuild/Debug-iphonesimulator/mana-iphone.app/Icon@2x.png
 xResource/Icon@2x.png
-lSLF07#2@25"Copy Resource/Icon@2x.png319468446#319468446#0(0"0(0#0#89"/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/Resource/Icon@2x.png8609848096#572"    cd /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/Resource/Icon@2x.png /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/Debug-iphonesimulator/mana-iphone.app0#
+lSLF07#2@25"Copy Resource/Icon@2x.png319630009#319630009#0(0"0(0#0#89"/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/Resource/Icon@2x.png8614588192#572"    cd /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/Resource/Icon@2x.png /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/Debug-iphonesimulator/mana-iphone.app0#
 
 CCpResource build/Debug-iphonesimulator/mana-iphone.app/LICENSE.cocos2d-x LICENSE.cocos2d-x
-s319468446.608497
-e319468446.614521
+s319630009.329940
+e319630009.336612
 r1
 xCpResource
 xbuild/Debug-iphonesimulator/mana-iphone.app/LICENSE.cocos2d-x
 xLICENSE.cocos2d-x
-lSLF07#2@22"Copy LICENSE.cocos2d-x319468446#319468446#0(0"0(0#0#86"/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/LICENSE.cocos2d-x8614499840#569"    cd /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/LICENSE.cocos2d-x /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/Debug-iphonesimulator/mana-iphone.app0#
+lSLF07#2@22"Copy LICENSE.cocos2d-x319630009#319630009#0(0"0(0#0#86"/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/LICENSE.cocos2d-x8614742848#569"    cd /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/LICENSE.cocos2d-x /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/Debug-iphonesimulator/mana-iphone.app0#
 
 CGenerateDSYMFile /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/Debug-iphonesimulator/mana-iphone.app.dSYM /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/Debug-iphonesimulator/mana-iphone.app/mana-iphone
-s319468449.592196
-e319468450.080749
+s319630013.252514
+e319630013.721579
 r1
 xGenerateDSYMFile
 x/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/Debug-iphonesimulator/mana-iphone.app.dSYM
 x/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/Debug-iphonesimulator/mana-iphone.app/mana-iphone
-lSLF07#2@121"GenerateDSYMFile build/Debug-iphonesimulator/mana-iphone.app.dSYM build/Debug-iphonesimulator/mana-iphone.app/mana-iphone319468449#319468450#0(0"0(0#0#124"/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/Debug-iphonesimulator/mana-iphone.app/mana-iphone8613674080#485"    cd /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/Debug-iphonesimulator/mana-iphone.app/mana-iphone -o /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/Debug-iphonesimulator/mana-iphone.app.dSYM0#
+lSLF07#2@121"GenerateDSYMFile build/Debug-iphonesimulator/mana-iphone.app.dSYM build/Debug-iphonesimulator/mana-iphone.app/mana-iphone319630013#319630013#0(0"0(0#0#124"/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/Debug-iphonesimulator/mana-iphone.app/mana-iphone8612898560#485"    cd /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/Debug-iphonesimulator/mana-iphone.app/mana-iphone -o /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/Debug-iphonesimulator/mana-iphone.app.dSYM0#
 
 CLd /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/Debug-iphonesimulator/mana-iphone.app/mana-iphone normal i386
-s319468448.610916
-e319468449.591930
+s319630012.213727
+e319630013.252413
 r1
 xLd
 x/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/Debug-iphonesimulator/mana-iphone.app/mana-iphone
 xnormal
 xi386
-lSLF07#2@129"Link /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/Debug-iphonesimulator/mana-iphone.app/mana-iphone319468448#319468449#0(0"0(0#0#0"8613788672#1227"    cd /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/g++-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/Debug-iphonesimulator -F/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/Debug-iphonesimulator -filelist /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/mana-iphone.build/Debug-iphonesimulator/mana-iphone.build/Objects-normal/i386/mana-iphone.LinkFileList -mmacosx-version-min=10.6 -ObjC -all_load -Xlinker -objc_abi_version -Xlinker 2 -framework CoreGraphics -framework Foundation -framework OpenGLES -framework QuartzCore -framework UIKit -framework AudioToolbox -framework OpenAL -lz -framework AVFoundation "-lcocos2d libraries" -lxml2 -o /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/Debug-iphonesimulator/mana-iphone.app/mana-iphone0#
+lSLF07#2@129"Link /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/Debug-iphonesimulator/mana-iphone.app/mana-iphone319630012#319630013#0(0"0(0#0#0"8613322176#1227"    cd /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/g++-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/Debug-iphonesimulator -F/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/Debug-iphonesimulator -filelist /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/mana-iphone.build/Debug-iphonesimulator/mana-iphone.build/Objects-normal/i386/mana-iphone.LinkFileList -mmacosx-version-min=10.6 -ObjC -all_load -Xlinker -objc_abi_version -Xlinker 2 -framework CoreGraphics -framework Foundation -framework OpenGLES -framework QuartzCore -framework UIKit -framework AudioToolbox -framework OpenAL -lz -framework AVFoundation "-lcocos2d libraries" -lxml2 -o /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/Debug-iphonesimulator/mana-iphone.app/mana-iphone0#
 
 CProcessInfoPlistFile /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/Debug-iphonesimulator/mana-iphone.app/Info.plist Info.plist
-s319468446.577543
-e319468446.581381
+s319630009.274638
+e319630009.301328
 r1
 xProcessInfoPlistFile
 x/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/Debug-iphonesimulator/mana-iphone.app/Info.plist
 xInfo.plist
-lSLF07#2@18"Process Info.plist319468446#319468446#0(0"0(0#0#79"/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/Info.plist8609207968#569"    cd /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Info.plist -genpkginfo /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/Debug-iphonesimulator/mana-iphone.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/Debug-iphonesimulator/mana-iphone.app/Info.plist0#
+lSLF07#2@18"Process Info.plist319630009#319630009#0(0"0(0#0#79"/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/Info.plist8616371904#569"    cd /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Info.plist -genpkginfo /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/Debug-iphonesimulator/mana-iphone.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/Debug-iphonesimulator/mana-iphone.app/Info.plist0#
 
 CProcessPCH /var/folders/VQ/VQsprjW3HfSXZYONAZnGW++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/mana_iphone_Prefix-egyrjnwlftrohpavrdeaqvrbviyi/mana_iphone_Prefix.pch.gch mana_iphone_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-s319468446.615699
-e319468447.901453
+s319630009.337695
+e319630011.260502
 r1
 xProcessPCH
 x/var/folders/VQ/VQsprjW3HfSXZYONAZnGW++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/mana_iphone_Prefix-egyrjnwlftrohpavrdeaqvrbviyi/mana_iphone_Prefix.pch.gch
@@ -1616,11 +1616,11 @@ xnormal
 xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@33"Precompile mana_iphone_Prefix.pch319468446#319468447#0(0"0(0#0#91"/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/mana_iphone_Prefix.pch8613834112#2332"    cd /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DUSE_FILE32API -DTARGET_OS_IPHONE -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -Wno-protocol -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/mana-iphone.build/Debug-iphonesimulator/mana-iphone.build/mana-iphone-generated-files.hmap -I/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/mana-iphone.build/Debug-iphonesimulator/mana-iphone.build/mana-iphone-own-target-headers.hmap -I/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/mana-iphone.build/Debug-iphonesimulator/mana-iphone.build/mana-iphone-all-target-headers.hmap -iquote /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/mana-iphone.build/Debug-iphonesimulator/mana-iphone.build/mana-iphone-project-headers.hmap -F/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/Debug-iphonesimulator -I/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/Debug-iphonesimulator/include -Ilibs/cocos2dx -Ilibs/cocos2dx/platform/iphone/third_party/libxml2 -Ilibs/cocos2dx/platform/iphone/third_party/opengles -I/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/mana-iphone.build/Debug-iphonesimulator/mana-iphone.build/DerivedSources/i386 -I/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/mana-iphone.build/Debug-iphonesimulator/mana-iphone.build/DerivedSources -c /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/mana_iphone_Prefix.pch -o /var/folders/VQ/VQsprjW3HfSXZYONAZnGW++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/mana_iphone_Prefix-egyrjnwlftrohpavrdeaqvrbviyi/mana_iphone_Prefix.pch.gch0#
+lSLF07#2@33"Precompile mana_iphone_Prefix.pch319630009#319630011#0(0"0(0#0#91"/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/mana_iphone_Prefix.pch8614375360#2332"    cd /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DUSE_FILE32API -DTARGET_OS_IPHONE -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -Wno-protocol -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/mana-iphone.build/Debug-iphonesimulator/mana-iphone.build/mana-iphone-generated-files.hmap -I/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/mana-iphone.build/Debug-iphonesimulator/mana-iphone.build/mana-iphone-own-target-headers.hmap -I/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/mana-iphone.build/Debug-iphonesimulator/mana-iphone.build/mana-iphone-all-target-headers.hmap -iquote /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/mana-iphone.build/Debug-iphonesimulator/mana-iphone.build/mana-iphone-project-headers.hmap -F/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/Debug-iphonesimulator -I/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/Debug-iphonesimulator/include -Ilibs/cocos2dx -Ilibs/cocos2dx/platform/iphone/third_party/libxml2 -Ilibs/cocos2dx/platform/iphone/third_party/opengles -I/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/mana-iphone.build/Debug-iphonesimulator/mana-iphone.build/DerivedSources/i386 -I/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/mana-iphone.build/Debug-iphonesimulator/mana-iphone.build/DerivedSources -c /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/mana_iphone_Prefix.pch -o /var/folders/VQ/VQsprjW3HfSXZYONAZnGW++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/mana_iphone_Prefix-egyrjnwlftrohpavrdeaqvrbviyi/mana_iphone_Prefix.pch.gch0#
 
 CProcessPCH++ /var/folders/VQ/VQsprjW3HfSXZYONAZnGW++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/mana_iphone_Prefix-cvugxzrbjkintkhbkctnmknpdivp/mana_iphone_Prefix.pch.gch mana_iphone_Prefix.pch normal i386 objective-c++ com.apple.compilers.gcc.4_2
-s319468446.616683
-e319468447.973229
+s319630009.338489
+e319630011.498926
 r1
 xProcessPCH++
 x/var/folders/VQ/VQsprjW3HfSXZYONAZnGW++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/mana_iphone_Prefix-cvugxzrbjkintkhbkctnmknpdivp/mana_iphone_Prefix.pch.gch
@@ -1629,11 +1629,11 @@ xnormal
 xi386
 xobjective-c++
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@33"Precompile mana_iphone_Prefix.pch319468446#319468447#0(0"0(0#0#91"/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/mana_iphone_Prefix.pch8612708768#2325"    cd /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c++-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DUSE_FILE32API -DTARGET_OS_IPHONE -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -Wno-protocol -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/mana-iphone.build/Debug-iphonesimulator/mana-iphone.build/mana-iphone-generated-files.hmap -I/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/mana-iphone.build/Debug-iphonesimulator/mana-iphone.build/mana-iphone-own-target-headers.hmap -I/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/mana-iphone.build/Debug-iphonesimulator/mana-iphone.build/mana-iphone-all-target-headers.hmap -iquote /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/mana-iphone.build/Debug-iphonesimulator/mana-iphone.build/mana-iphone-project-headers.hmap -F/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/Debug-iphonesimulator -I/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/Debug-iphonesimulator/include -Ilibs/cocos2dx -Ilibs/cocos2dx/platform/iphone/third_party/libxml2 -Ilibs/cocos2dx/platform/iphone/third_party/opengles -I/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/mana-iphone.build/Debug-iphonesimulator/mana-iphone.build/DerivedSources/i386 -I/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/mana-iphone.build/Debug-iphonesimulator/mana-iphone.build/DerivedSources -c /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/mana_iphone_Prefix.pch -o /var/folders/VQ/VQsprjW3HfSXZYONAZnGW++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/mana_iphone_Prefix-cvugxzrbjkintkhbkctnmknpdivp/mana_iphone_Prefix.pch.gch0#
+lSLF07#2@33"Precompile mana_iphone_Prefix.pch319630009#319630011#0(0"0(0#0#91"/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/mana_iphone_Prefix.pch8615552224#2325"    cd /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c++-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DUSE_FILE32API -DTARGET_OS_IPHONE -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -Wno-protocol -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/mana-iphone.build/Debug-iphonesimulator/mana-iphone.build/mana-iphone-generated-files.hmap -I/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/mana-iphone.build/Debug-iphonesimulator/mana-iphone.build/mana-iphone-own-target-headers.hmap -I/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/mana-iphone.build/Debug-iphonesimulator/mana-iphone.build/mana-iphone-all-target-headers.hmap -iquote /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/mana-iphone.build/Debug-iphonesimulator/mana-iphone.build/mana-iphone-project-headers.hmap -F/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/Debug-iphonesimulator -I/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/Debug-iphonesimulator/include -Ilibs/cocos2dx -Ilibs/cocos2dx/platform/iphone/third_party/libxml2 -Ilibs/cocos2dx/platform/iphone/third_party/opengles -I/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/mana-iphone.build/Debug-iphonesimulator/mana-iphone.build/DerivedSources/i386 -I/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/mana-iphone.build/Debug-iphonesimulator/mana-iphone.build/DerivedSources -c /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/mana_iphone_Prefix.pch -o /var/folders/VQ/VQsprjW3HfSXZYONAZnGW++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/mana_iphone_Prefix-cvugxzrbjkintkhbkctnmknpdivp/mana_iphone_Prefix.pch.gch0#
 
 CProcessPCH++ /var/folders/VQ/VQsprjW3HfSXZYONAZnGW++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/mana_iphone_Prefix-hijhzoslcvpbmmgacdhrjdaxttex/mana_iphone_Prefix.pch.gch mana_iphone_Prefix.pch normal i386 c++ com.apple.compilers.gcc.4_2
-s319468446.614638
-e319468446.857360
+s319630009.336720
+e319630010.222312
 r1
 xProcessPCH++
 x/var/folders/VQ/VQsprjW3HfSXZYONAZnGW++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/mana_iphone_Prefix-hijhzoslcvpbmmgacdhrjdaxttex/mana_iphone_Prefix.pch.gch
@@ -1642,13 +1642,13 @@ xnormal
 xi386
 xc++
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@33"Precompile mana_iphone_Prefix.pch319468446#319468446#0(0"0(0#0#91"/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/mana_iphone_Prefix.pch8614180640#2257"    cd /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DUSE_FILE32API -DTARGET_OS_IPHONE -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/mana-iphone.build/Debug-iphonesimulator/mana-iphone.build/mana-iphone-generated-files.hmap -I/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/mana-iphone.build/Debug-iphonesimulator/mana-iphone.build/mana-iphone-own-target-headers.hmap -I/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/mana-iphone.build/Debug-iphonesimulator/mana-iphone.build/mana-iphone-all-target-headers.hmap -iquote /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/mana-iphone.build/Debug-iphonesimulator/mana-iphone.build/mana-iphone-project-headers.hmap -F/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/Debug-iphonesimulator -I/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/Debug-iphonesimulator/include -Ilibs/cocos2dx -Ilibs/cocos2dx/platform/iphone/third_party/libxml2 -Ilibs/cocos2dx/platform/iphone/third_party/opengles -I/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/mana-iphone.build/Debug-iphonesimulator/mana-iphone.build/DerivedSources/i386 -I/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/mana-iphone.build/Debug-iphonesimulator/mana-iphone.build/DerivedSources -c /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/mana_iphone_Prefix.pch -o /var/folders/VQ/VQsprjW3HfSXZYONAZnGW++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/mana_iphone_Prefix-hijhzoslcvpbmmgacdhrjdaxttex/mana_iphone_Prefix.pch.gch0#
+lSLF07#2@33"Precompile mana_iphone_Prefix.pch319630009#319630010#0(0"0(0#0#91"/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/mana_iphone_Prefix.pch8611535808#2257"    cd /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DUSE_FILE32API -DTARGET_OS_IPHONE -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/mana-iphone.build/Debug-iphonesimulator/mana-iphone.build/mana-iphone-generated-files.hmap -I/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/mana-iphone.build/Debug-iphonesimulator/mana-iphone.build/mana-iphone-own-target-headers.hmap -I/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/mana-iphone.build/Debug-iphonesimulator/mana-iphone.build/mana-iphone-all-target-headers.hmap -iquote /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/mana-iphone.build/Debug-iphonesimulator/mana-iphone.build/mana-iphone-project-headers.hmap -F/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/Debug-iphonesimulator -I/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/Debug-iphonesimulator/include -Ilibs/cocos2dx -Ilibs/cocos2dx/platform/iphone/third_party/libxml2 -Ilibs/cocos2dx/platform/iphone/third_party/opengles -I/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/mana-iphone.build/Debug-iphonesimulator/mana-iphone.build/DerivedSources/i386 -I/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/mana-iphone.build/Debug-iphonesimulator/mana-iphone.build/DerivedSources -c /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/mana_iphone_Prefix.pch -o /var/folders/VQ/VQsprjW3HfSXZYONAZnGW++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/mana_iphone_Prefix-hijhzoslcvpbmmgacdhrjdaxttex/mana_iphone_Prefix.pch.gch0#
 
 CTouch /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/Debug-iphonesimulator/mana-iphone.app
-s319468450.080839
-e319468450.083664
+s319630013.721813
+e319630013.724946
 r1
 xTouch
 x/Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/Debug-iphonesimulator/mana-iphone.app
-lSLF07#2@118"Touch /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/Debug-iphonesimulator/mana-iphone.app319468450#319468450#0(0"0(0#0#0"8611480384#342"    cd /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/Debug-iphonesimulator/mana-iphone.app0#
+lSLF07#2@118"Touch /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/Debug-iphonesimulator/mana-iphone.app319630013#319630013#0(0"0(0#0#0"8613505248#342"    cd /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/zhaopeng/DevWorks/The-Mana-world-cocos2d-x-client/mana-iphone/build/Debug-iphonesimulator/mana-iphone.app0#
 
